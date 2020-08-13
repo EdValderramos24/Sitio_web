@@ -16,10 +16,13 @@ Importancia de la reproductibilidad
 
 
 ![](Primer_digito.PNG)
+Figura 1. Resultado de la revisión de los datos segun cantón .  
 
-Figura 1. Resultado de la revisión de los datos segun cantón censo
-Nota. Elaboración propia
+Nota. Elaboración propia .
 
+
+## Resultados
+Se comprueba que la _Ley de Benford_ aplica en la distribucion espacial de la población costarricense.
 
 
 #### Bibliográfia
