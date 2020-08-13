@@ -33,3 +33,6 @@ es.wikipedia.org. (2020). es.wikipedia.org. Obtenido de Ley de Benford: https://
 
 Instituto Nacional de Estadística y Censos. (2011). Sistema de Consulta de Proyecciones de Población Distritales [base de datos]. Obtenido de inec.go.cr: http://www.inec.go.cr/proyeccionpoblacion/frmproyec.aspx
 
+
+tema : jekyll-theme-midnight
+
