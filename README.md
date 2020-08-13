@@ -15,19 +15,17 @@ Importancia de la reproductibilidad
 
 
 
-
-Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
-Bibliografía
-
-![
-
 ![](Primer_digito.PNG)
 
+Figura 1. Resultado de la revisión de los datos segun cantón censo
 
-Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handbook. Zenodo. https://doi.org/10.5281/ZENODO.1212496
+Fuente.
 
-Claerbout, J. F. (1992). Earth Soundings Analysis: Processing Versus Inversion. Blackwell Science Inc.
+#### Bibliográfia
 
-Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology, 17(1), 177. https://doi.org/10.1186/s13059-016-1044-7
+Castañeda, G. (enero de 2011). La ley de Benford y su aplicabilidad en el análisis forense de resultados electorales. Política y gobierno, 18(2). Obtenido de http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-20372011000200004
 
+es.wikipedia.org. (2020). es.wikipedia.org. Obtenido de Ley de Benford: https://es.wikipedia.org/wiki/Ley_de_Benford
+
+Instituto Nacional de Estadística y Censos. (2011). Sistema de Consulta de Proyecciones de Población Distritales [base de datos]. Obtenido de inec.go.cr: http://www.inec.go.cr/proyeccionpoblacion/frmproyec.aspx
 
