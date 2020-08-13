@@ -19,7 +19,9 @@ Importancia de la reproductibilidad
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
 Bibliografía
 
+![
 
+![](Primer_digito.PNG)
 
 
 Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handbook. Zenodo. https://doi.org/10.5281/ZENODO.1212496
