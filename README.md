@@ -18,8 +18,9 @@ Importancia de la reproductibilidad
 ![](Primer_digito.PNG)
 
 Figura 1. Resultado de la revisión de los datos segun cantón censo
+Nota. Elaboración propia
 
-Fuente.
+
 
 #### Bibliográfia
 
