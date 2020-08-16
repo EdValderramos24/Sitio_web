@@ -1,6 +1,3 @@
-1984Sitio web de ejemplo 
-====================
-
 # Sitio web de ejemplo  _Ley de Benford_ 
 ====================
 
