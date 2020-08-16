@@ -27,7 +27,7 @@ Nota. Elaboración propia .
 
 ## Resultados
 Se comprueba que la _Ley de Benford_ aplica en la distribucion espacial de la población costarricense.
-
+d
 
 #### Bibliográfia
 
