@@ -1,4 +1,4 @@
-Sitio web de ejemplo 
+1984Sitio web de ejemplo 
 ====================
 
 Este es un sitio web de ejemplo para mostrar la funcionalidad de [GitGub Pages](https://pages.github.com/).
@@ -13,21 +13,15 @@ Importancia de la reproductibilidad
 
 Se presenta el resultado de aplicar la  [_**Ley de Benford**_](https://es.wikipedia.org/wiki/Ley_de_Benford) o _**Ley del primer dígito**_.
 
+En la distribución espacial de la población en Costa Rica . Los datos con los que se parte del análisis corresponden a la población según cantón  en 1984, 2000, 2011 y 2020. Se pueden consultar en  [**Proyecciones de la Población**](http://services.inec.go.cr/proyeccionpoblacion/frmproyec.aspx), del  [**Inec**](https://www.inec.cr/).
 
-
-
-Se presentan los resultados de aplicar la [_**Ley de Benford**_](https://es.wikipedia.org/wiki/Ley_de_Benford) e_Benford) o **_ley del primer dígito**_, en la distribución espacial de la población en Costa Rica. Se toma como referenica  la población según canton,  las cuales se pueden consultar en  [**Proyecciones de la Población**](http://services.inec.go.cr/proyeccionpoblacion/frmproyec.aspx), del  [**Inec**](https://www.inec.cr/).
-
-
-![](Primer_digito.PNG)
-Figura 1. Resultado de la revisión de los datos segun cantón .  
-
-Nota. Elaboración propia .
-
+![](Primer_digito.PNG)  
+ 
+Figura 1. Resultado de la revisión de los datos segun cantón.  
+Nota. Elaboración propia.
 
 ## Resultados
 Se comprueba que la _Ley de Benford_ aplica en la distribucion espacial de la población costarricense.
-d
 
 #### Bibliográfia
 
