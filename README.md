@@ -21,6 +21,10 @@ Nota. Elaboración propia.
 
 ## Metodología 
 
+Hay más cifras en el mundo que empiezan con 1 que con 2. Cerca del _0.30%_ empiezan por **1**; _0.17%_ por **2**; menos del _0.05%_ empiezan por **9**.
+Se toma el total de la población por cantón en los distintos periodos. Se ordenan según el primer digito y en cada periodo existirá un patrón similar. Aplica para cualquier conjunto de números distribuidos de manera aleatoria en el espacio, longitud de ríos, PIB de los países, temperaturas, mareas, precios de artículos.
+
+
 
 ## Resultados
 Se comprueba que la _Ley de Benford_ aplica en la distribucion espacial de la población costarricense.
