@@ -11,6 +11,11 @@ Importancia de la reproductibilidad
 
 ## Ejemplo personal
 
+Se presenta el result de aplicar la  **_[Ley de Benford]_**(https://es.wikipedia.org/wiki/Ley_de_Benford) o 
+
+
+
+
 Se presentan los resultados de aplicar la [_**Ley de Benford**_](https://es.wikipedia.org/wiki/Ley_de_Benford) e_Benford) o **_ley del primer dígito**_, en la distribución espacial de la población en Costa Rica. Se toma como referenica  la población según canton,  las cuales se pueden consultar en  [**Proyecciones de la Población**](http://services.inec.go.cr/proyeccionpoblacion/frmproyec.aspx), del  [**Inec**](https://www.inec.cr/).
 
 
