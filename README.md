@@ -11,7 +11,10 @@ Importancia de la reproductibilidad
 
 ## Ejemplo personal
 
-Se presenta el result de aplicar la  **_[Ley de Benford]_**(https://es.wikipedia.org/wiki/Ley_de_Benford) o 
+
+**_[Ley de Benford]_**(https://es.wikipedia.org/wiki/Ley_de_Benford) o 
+
+[_**Ley de Benford**_](https://es.wikipedia.org/wiki/Ley_de_Benford) o _**Ley del primer dígito**_.
 
 
 
