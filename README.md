@@ -1,6 +1,10 @@
 1984Sitio web de ejemplo 
 ====================
 
+# Sitio web de ejemplo  _Ley de Benford_ 
+====================
+
+
 Este es un sitio web de ejemplo para mostrar la funcionalidad de [GitGub Pages](https://pages.github.com/).
 
 Notas sobre investigación reproducible y análisis de datos
