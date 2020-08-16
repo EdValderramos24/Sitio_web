@@ -1,10 +1,11 @@
 # Sitio web de ejemplo  _Ley de Benford_ 
 
-
 Este es un sitio web de ejemplo para mostrar la funcionalidad de [GitGub Pages](https://pages.github.com/).
 
-Notas sobre investigación reproducible y análisis de datos
-Reproductibilidad
+## Notas sobre investigación reproducible y análisis de datos
+
+### Reproductibilidad
+
 
 El término reproductibilidad (o reproducibility, en inglés) se refiere a la capacidad de reproducir un trabajo de investigación, de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodología. Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén disponibles para quienes deseen usarlos (Bezjak et al., 2018). Este concepto está relacionado con el de replicabilidad (o replicability, en inglés), el cual se refiere a la posibilidad de obtener resultados consistentes (no idénticos) al replicar un estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos conceptos son elementos centrales de la investigación empírica.
 Importancia de la reproductibilidad
@@ -17,6 +18,9 @@ Se presenta el resultado de aplicar la  [_**Ley de Benford**_](https://es.wikipe
  
 Figura 1. Resultado de la revisión de los datos segun cantón.  
 Nota. Elaboración propia.
+
+## Metodología 
+
 
 ## Resultados
 Se comprueba que la _Ley de Benford_ aplica en la distribucion espacial de la población costarricense.
