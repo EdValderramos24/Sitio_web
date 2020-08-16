@@ -29,9 +29,11 @@ Se toma el total de la población por cantón en los distintos periodos. Se orde
 ## Resultados
 Se comprueba que la _Ley de Benford_ aplica en la distribucion espacial de la población costarricense.
 
-#### Bibliográfia
+## Bibliográfia
 
 Castañeda, G. (enero de 2011). La ley de Benford y su aplicabilidad en el análisis forense de resultados electorales. Política y gobierno, 18(2). Obtenido de http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-20372011000200004
+
+Collins, C., Tenaglia, L., Osterholm, E., & Mettler, D. (Productores). (2020). Conexiones [Película]. Netflix. Obtenido de https://www.netflix.com/watch/81084953?trackId=14277283&tctx=0%2C3%2C685f0fac-3e43-4221-8142-413774fe8b35-70484294%2C%2C%2C
 
 es.wikipedia.org. (2020). es.wikipedia.org. Obtenido de Ley de Benford: https://es.wikipedia.org/wiki/Ley_de_Benford
 
